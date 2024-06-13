@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "node": "^18.20.3"
+  },
+  "name": "day2assignment",
+  "version": "1.0.0",
+  "description": "completing day2 assignment",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "app"
+  ],
+  "author": "uddesh pujari",
+  "license": "ISC"
+}
